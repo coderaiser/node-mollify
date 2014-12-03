@@ -20,7 +20,7 @@ var minify      = require('mollify'),
     port        = 1337,
     ip          = '0.0.0.0';
     
-app.use(minify({
+app.use(mollify({
     dir: __dirname
 }));
 
