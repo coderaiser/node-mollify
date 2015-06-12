@@ -10,7 +10,7 @@ npm i mollify --save
 ## How to use?
 
 ```js
-var minify      = require('mollify'),
+var mollify     = require('mollify'),
     http        = require('http'),
     express     = require('express'),
     
