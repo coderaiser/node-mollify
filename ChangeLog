@@ -8,7 +8,6 @@ feature:
 
 feature:
 - (package) rm checkup
-- (package) v1.0.4
 - (package) ponse v1.3
 
 
