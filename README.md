@@ -10,16 +10,16 @@ npm i mollify --save
 ## How to use?
 
 ```js
-var mollify     = require('mollify'),
-    http        = require('http'),
-    express     = require('express'),
-    
-    app         = express(),
-    server      = http.createServer(app),
-    
-    port        = 1337,
-    ip          = '0.0.0.0';
-    
+const mollify = require('mollify');
+const http = require('http');
+const express = require('express');
+
+const app = express();
+const server = http.createServer(app);
+
+const port = 1337;
+const ip = '0.0.0.0';
+
 app.use(mollify({
     dir: __dirname
 }));
@@ -32,3 +32,4 @@ server.listen(port, ip);
 ## License
 
 MIT
+
