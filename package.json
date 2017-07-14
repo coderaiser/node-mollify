@@ -19,6 +19,9 @@
     "minify",
     "middleware"
   ],
+  "engines": {
+    "node": ">=4"
+  },
   "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
   "license": "MIT",
   "bugs": {
