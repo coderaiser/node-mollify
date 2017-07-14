@@ -1,3 +1,11 @@
+2017.07.14, v2.0.0
+
+feature:
+- (mollify) es2015-ify
+- (package) drop support of node version < 4
+- (package) minify v3.0.0
+
+
 2017.01.18, v1.0.8
 
 feature:
