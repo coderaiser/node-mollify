@@ -7,9 +7,11 @@
     "minify": "^3.0.0",
     "ponse": "^1.6.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^4.8.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "lint": "eslint lib"
   },
   "repository": {
     "type": "git",
