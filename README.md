@@ -43,5 +43,5 @@ MIT
 [NPMURL]:                   http://npmjs.org/package/mollify
 [LicenseURL]:               https://tldrlegal.com/license/mit-license "MIT License"
 [BuildStatusURL]:           http://travis-ci.org/coderaiser/node-mollify  "Build Status"
-[DependencyStatusURL]:      https://gemnasium.com/coderaiser/node-mollify "Dependency Status"
+[DependencyStatusURL]:      https://david-dm.org/coderaiser/node-mollify "Dependency Status"
 
