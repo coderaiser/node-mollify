@@ -37,7 +37,7 @@ MIT
 
 [NPMIMGURL]:                https://img.shields.io/npm/v/mollify.svg?style=flat
 [BuildStatusIMGURL]:        https://img.shields.io/travis/coderaiser/node-mollify/master.svg?style=flat
-[DependencyStatusIMGURL]:   https://img.shields.io/gemnasium/coderaiser/node-mollify.svg?style=flat
+[DependencyStatusIMGURL]:   https://img.shields.io/david/coderaiser/node-mollify.svg?style=flat
 [LicenseIMGURL]:            https://img.shields.io/badge/license-MIT-317BF9.svg?style=flat
 [NPM_INFO_IMG]:             https://nodei.co/npm/mollify.png?stars
 [NPMURL]:                   http://npmjs.org/package/mollify
