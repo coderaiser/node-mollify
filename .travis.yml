@@ -1,11 +1,10 @@
  language: node_js
  node_js:
-    - 4
-    - 6
-    - 8
+    - 14
+    - 12
 
 script:
-  - npm lint
+  - npm run lint
 
 notifications:
     email:

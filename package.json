@@ -8,10 +8,16 @@
     "ponse": "^5.1.1"
   },
   "devDependencies": {
-    "eslint": "^7.9.0"
+    "eslint": "^7.9.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-putout": "^5.1.1",
+    "madrun": "^7.0.4",
+    "putout": "^10.0.3",
+    "supertape": "^2.0.1"
   },
   "scripts": {
-    "lint": "eslint lib"
+    "lint": "madrun lint",
+    "fix:lint": "madrun fix:lint"
   },
   "repository": {
     "type": "git",
