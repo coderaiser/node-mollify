@@ -1,6 +1,6 @@
 {
   "name": "mollify",
-  "version": "2.0.2",
+  "version": "3.0.0",
   "description": "minify middleware",
   "main": "lib/mollify.js",
   "dependencies": {
