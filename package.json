@@ -4,7 +4,7 @@
   "description": "minify middleware",
   "main": "lib/mollify.js",
   "dependencies": {
-    "minify": "^3.0.0",
+    "minify": "^6.0.0",
     "ponse": "^5.1.1"
   },
   "devDependencies": {
