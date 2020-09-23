@@ -5,7 +5,7 @@
   "main": "lib/mollify.js",
   "dependencies": {
     "minify": "^3.0.0",
-    "ponse": "^1.6.0"
+    "ponse": "^5.1.1"
   },
   "devDependencies": {
     "eslint": "^4.8.0"
