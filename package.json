@@ -8,7 +8,7 @@
     "ponse": "^5.1.1"
   },
   "devDependencies": {
-    "eslint": "^4.8.0"
+    "eslint": "^7.9.0"
   },
   "scripts": {
     "lint": "eslint lib"
@@ -22,7 +22,7 @@
     "middleware"
   ],
   "engines": {
-    "node": ">=4"
+    "node": ">=12"
   },
   "author": "coderaiser <mnemonic.enemy@gmail.com> (http://coderaiser.github.io/)",
   "license": "MIT",
