@@ -1,4 +1,6 @@
 node_modules
 yarn-error.log
-.putoutcache
 
+.idea
+*.swp
+coverage
