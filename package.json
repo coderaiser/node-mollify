@@ -11,7 +11,7 @@
     "eslint": "^7.9.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-putout": "^5.1.1",
-    "madrun": "^7.0.4",
+    "madrun": "^8.10.1",
     "putout": "^10.0.3",
     "supertape": "^2.0.1"
   },
