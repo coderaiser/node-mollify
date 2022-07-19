@@ -1,6 +1,6 @@
 # Mollify [![License][LicenseIMGURL]][LicenseURL] [![Build Status][BuildStatusIMGURL]][BuildStatusURL] [![NPM version][NPMIMGURL]][NPMURL]
 
-Middleware for [minify](http://coderaiser.github.io/minify "Minify").
+Middleware for [minify](https://github.com/coderaiser/minify "Minify").
 
 ## Install
 
@@ -11,11 +11,12 @@ npm i mollify --save
 ## How to use?
 
 ```js
-import mollify from 'mollify';
-import http from 'http';
-import express from 'express';
 import {fileURLToPath} from 'url';
 import {dirname} from 'path';
+import http from 'http';
+
+import mollify from 'mollify';
+import express from 'express';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
