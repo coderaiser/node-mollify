@@ -12,7 +12,7 @@
     "eslint": "^8.7.0",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-putout": "^13.7.0",
-    "madrun": "^8.10.1",
+    "madrun": "^9.0.5",
     "putout": "^26.24.0"
   },
   "scripts": {
