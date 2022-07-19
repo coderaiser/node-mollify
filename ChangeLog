@@ -1,3 +1,13 @@
+2022.07.19, v5.0.0
+
+feature:
+- (package) eslint-plugin-putout v15.8.1
+- (package) madrun v9.0.5
+- (package) minify v9.1.0
+- (package) ponse v7.0.0
+- (package) putout v26.24.0
+
+
 2022.01.25, v4.0.0
 
 feature:
