@@ -11,9 +11,14 @@ npm i mollify --save
 ## How to use?
 
 ```js
-const mollify = require('mollify');
-const http = require('http');
-const express = require('express');
+import mollify from 'mollify';
+import http from 'http';
+import express from 'express';
+import {fileURLToPath} from 'url';
+import {dirname} from 'path';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
 
 const app = express();
 const server = http.createServer(app);
