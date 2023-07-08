@@ -1,3 +1,12 @@
+2023.07.08, v6.0.0
+
+feature:
+- d7b11a4 mollify: drop support of node < 16
+- 89fb93d package: minify v10.2.0
+- 7276eaf package: putout v30.1.1
+- a68bbb9 package: eslint-plugin-putout v18.0.0
+- c450f81 package: eslint-plugin-n v16.0.1
+
 2022.07.19, v5.0.1
 
 fix:
